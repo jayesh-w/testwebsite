@@ -1,0 +1,28 @@
+
+
+Git: 
+Git is a software tool that is used to track files.
+Git is used to track, make changes and collaborate on files
+These files maybe code files, or some other importart files
+
+git init: Used to initialize an empty Repository 
+
+git add <filename> : Adds a particular file to Repository
+
+git add -A : Adds all files to Repository
+
+Homework : Findout about "git add ." command 
+
+Git Doesn't allow unknown user to commit to Repository it asks us to register our name and email 
+using
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+git config --list : get list of all config variables
+
+git commit -m "Your Commit Message" 
+
+git log <branch-name> 
+
+git checkout <commit-id>
+
